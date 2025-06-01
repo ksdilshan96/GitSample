@@ -7,7 +7,8 @@ add
 for
 fun
 
-this is a bad
 
-def line 
-new line for dev
+this is newly added line
+
+this is good debveloper
+
